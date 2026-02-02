@@ -1,0 +1,13 @@
+# Fichiers et dossiers à ignorer par git
+.env
+config.php
+/vendor/
+/dompdf/
+/node_modules/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.sql
+.idea/
+.vscode/
