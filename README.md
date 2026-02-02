@@ -28,23 +28,23 @@ This project is a reservation system for ONCF (Office National des Chemins de Fe
 3. Run `ng serve` to start the development server.
 
 ## Features
-- Page d'Accueil
+### Page d'Accueil
 ![Accueil](Screenshots/1-Accueil.png)
 
-- User authentication (login/register)
+### User authentication (login/register)
 ![Authentication](Screenshots/3-Inscription.png)
 ![Authentication](Screenshots/1-Login.png)
 
-- Search for train journeys
+### Search for train journeys
 ![Search_Trajet](Screenshots/2-Trajet.png)
 
-- Make reservations
+### Make reservations
 ![Réservation](Screenshots/4-1-Réservation.png)
 
-- Payment processing
+### Payment processing
 ![Payment](Screenshots/4-Paiement.png)
 
-- Generate PDF invoices
+### Generate PDF invoices
 ![Billet](Screenshots/5-Billets.png)
 
 ## Technologies Used
