@@ -30,15 +30,20 @@ This project is a reservation system for ONCF (Office National des Chemins de Fe
 ## Features
 - Page d'Accueil
 ![Accueil](Screenshots/1-Accueil.png)
+
 - User authentication (login/register)
 ![Authentication](Screenshots/3-Inscription.png)
 ![Authentication](Screenshots/1-Login.png)
+
 - Search for train journeys
-![Search_Trajet](Screenshots/2-recherche trajet.png)
+![Search_Trajet](Screenshots/2-Trajet.png)
+
 - Make reservations
 ![Réservation](Screenshots/4-1-Réservation.png)
+
 - Payment processing
 ![Payment](Screenshots/4-Paiement.png)
+
 - Generate PDF invoices
 ![Billet](Screenshots/5-Billets.png)
 
