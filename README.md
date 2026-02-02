@@ -9,8 +9,8 @@ This project is a reservation system for ONCF (Office National des Chemins de Fe
   - `models/`: Data models and database access.
   - `views/`: PHP view files for rendering pages.
   - `dompdf/`: Library for generating PDF invoices.
-- **Frontend (Angular)**: User interface for login, registration, search, reservation, and payment.
-  - Located in `oncf-reservation-frontend/`.
+- **Frontend (Tailwind)**: User interface for login, registration, search, reservation, and payment.
+  <!-- - Located in `oncf-reservation-frontend/`. -->
 - **Database**: SQL schema in `oncf_2.sql`.
 
 ## Setup Instructions
