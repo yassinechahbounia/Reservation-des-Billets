@@ -11,3 +11,4 @@ Thumbs.db
 *.sql
 .idea/
 .vscode/
+/oncf-reservation-frontend/

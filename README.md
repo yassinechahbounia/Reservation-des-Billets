@@ -49,4 +49,4 @@ This project is a reservation system for ONCF (Office National des Chemins de Fe
 
 ## Technologies Used
 - Backend: PHP, MySQL, DomPDF
-- Frontend: Angular,TypeScript,tailwindcss 
+- Frontend: tailwindcss 
