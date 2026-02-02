@@ -22,10 +22,12 @@ This project is a reservation system for ONCF (Office National des Chemins de Fe
 4. Import `oncf_2.sql` into your MySQL database.
 5. Start the PHP server (e.g., using Apache or `php -S localhost:8000`).
 
+<!--  
 ### Frontend Setup
 1. Navigate to `oncf-reservation-frontend/`.
 2. Run `npm install` to install dependencies.
 3. Run `ng serve` to start the development server.
+-->
 
 ## Features
 ### Page d'Accueil
