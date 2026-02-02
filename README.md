@@ -1,6 +1,6 @@
 # ticket reservation system
 
-This project is a reservation system for ONCF (Office National des Chemins de Fer), consisting of a PHP backend and an Angular frontend.
+This project is a reservation system for ONCF (Office National des Chemins de Fer), consisting of a PHP backend and an Tailwind Css frontend.
 
 ## Project Structure
 
